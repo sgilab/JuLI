@@ -41,7 +41,7 @@ Open R (>= 3.3.1)
                OutputPath='/OutputPath',     
                Thread=integer,         
                Refgene='/path/JuLI-vX.X.X/references/refGene_hg19.txt',          
-               Gap='/path/JuLI-vX.X.X/references/gap_hg19.txt'
+               Gap='/path/JuLI-vX.X.X/references/gap_hg19.txt',
                Reference='/path/hg19.fa')
 
 [Options]  
