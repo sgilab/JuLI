@@ -85,8 +85,8 @@ Uniprot: Path of Uniprot data file. It is uploaded to JuLI's github.
 *Function for generation of control panel
 
     controlpanel(ControlBams=c('/path/control1.bam,/path/control2.bam ...'),
-                 ID='ID'
-                 OutputPath='/OutputPath'
+                 ID='ID',
+                 OutputPath='/OutputPath',
                  Thread=integer)
 
 [Options]  
