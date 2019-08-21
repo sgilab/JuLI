@@ -158,7 +158,7 @@ Open R (>= 3.3.1)
                Reference='/path/hg19.fa')
 
     annofusion(Output='/path/JuLI-master/test/JuLI_test.txt',        
-               Refgene='/path/JuLI-master/references/Refgene_hg19.txt',            
+               Refgene='/path/JuLI-master/references/refgene_hg19.txt',            
                Cosmic='/path/JuLI-master/references/CosmicFusionExport_V76.tsv',           
                Pfam='/path/JuLI-master/references/Pfam-A.full.human',          
                Uniprot='/path/JuLI-master/references/HGNC_GeneName_UniProtID_160524.txt')
