@@ -8,7 +8,7 @@
 
 Installing JuLI
 ----------------
-Download https://github.com/sgilab/JuLI/raw/master/JuLI-0.1.3.zip
+Download https://github.com/sgilab/JuLI/raw/JuLI-0.1.3/JuLI-0.1.3.zip
 
 Unzip JuLI-X.X.X.zip (type the downloaded version)
 
