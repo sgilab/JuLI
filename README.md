@@ -4,11 +4,12 @@
   </a>
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
 </p>
+# update V0.1.6: changed to also handle with NCBI style chromosome names (1,2..X,Y).
 
 
 Installing JuLI
 ----------------
-Download https://github.com/sgilab/JuLI/raw/JuLI-0.1.3/JuLI-0.1.3.zip
+Download https://github.com/sgilab/JuLI/raw/JuLI-0.1.6/JuLI-0.1.6.zip
 
 Unzip JuLI-X.X.X.zip (type the downloaded version)
 
