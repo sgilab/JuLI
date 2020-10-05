@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/31881333/">
     <img height="150" src="https://github.com/sgilab/JuLI/blob/master/JuLI_logo.png">
   </a>
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
