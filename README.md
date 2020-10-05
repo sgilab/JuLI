@@ -3,7 +3,9 @@
     <img height="150" src="https://github.com/sgilab/JuLI/blob/master/JuLI_logo.png">
   </a>
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
+  <h5 align="center">J Mol Diagn. 2020 Mar;22(3):304-318</h5>
 </p>
+
 
 Update JuLI
 ----------------
