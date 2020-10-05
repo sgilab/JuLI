@@ -13,7 +13,7 @@ Update JuLI
 
 Installing JuLI
 ----------------
-download https://github.com/sgilab/JuLI/blob/master/juliv0.1.6.1.zip
+download https://github.com/sgilab/JuLI/raw/master/juliv0.1.6.1.zip
 
 unzip JuLI-X.X.X.zip (type the downloaded version)
 
