@@ -5,13 +5,13 @@
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
 </p>
 # update V0.1.6: changed to also handle with NCBI style chromosome names (1,2..X,Y).
-
+# update V0.1.6.1: changed the errors from compatibility of data.table.
 
 Installing JuLI
 ----------------
-Download https://github.com/sgilab/JuLI/raw/JuLI-0.1.6/JuLI-0.1.6.zip
+download https://github.com/sgilab/JuLI/blob/master/juliv0.1.6.1.zip
 
-Unzip JuLI-X.X.X.zip (type the downloaded version)
+unzip JuLI-X.X.X.zip (type the downloaded version)
 
 Open R (>= 3.3.1)
 
