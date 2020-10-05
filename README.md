@@ -4,8 +4,12 @@
   </a>
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
 </p>
-# update V0.1.6: changed to also handle with NCBI style chromosome names (1,2..X,Y).
-# update V0.1.6.1: changed the errors from compatibility of data.table.
+
+update JuLI
+----------------
+2019.12 V0.1.6: changed to also handle with NCBI style chromosome names (1,2..X,Y).
+
+2020.10 V0.1.6.1: changed the errors from compatibility of data.table library.
 
 Installing JuLI
 ----------------
