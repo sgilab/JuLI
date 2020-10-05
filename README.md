@@ -5,7 +5,7 @@
   <h1 align="center">Junction Location Identifier (JuLI)</h1>
 </p>
 
-update JuLI
+Update JuLI
 ----------------
 2019.12 V0.1.6: changed to also handle with NCBI style chromosome names (1,2..X,Y).
 
