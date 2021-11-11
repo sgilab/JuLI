@@ -13,9 +13,11 @@ Update JuLI
 
 2020.10 V0.1.6.1: changed the errors from compatibility of data.table library.
 
+2020.10 V0.1.6.2: fixed the bugs at merging bed files.
+
 Installing JuLI
 ----------------
-download https://github.com/sgilab/JuLI/raw/master/JuLI-v0.1.6.1.zip
+download https://github.com/sgilab/JuLI/blob/master/JuLI-v0.1.6.2.zip
 
 unzip JuLI-vX.X.X.zip (type the downloaded version)
 
